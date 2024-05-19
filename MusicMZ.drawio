@@ -1,0 +1,49 @@
+<mxfile host="app.diagrams.net" modified="2024-05-19T19:57:06.826Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36 OPR/109.0.0.0" etag="wOun0nxLK5T8viV0iTcQ" version="24.4.4" type="device">
+  <diagram name="Страница — 1" id="nLEcKvbunNGPk3oV6W-c">
+    <mxGraphModel dx="1008" dy="621" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="m5NKALQ9LFGTojzMWtqS-1" value="Travis Scott" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="374" y="240" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="m5NKALQ9LFGTojzMWtqS-2" value="Universal Music Group" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="520" y="240" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="m5NKALQ9LFGTojzMWtqS-3" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1" source="m5NKALQ9LFGTojzMWtqS-1" target="m5NKALQ9LFGTojzMWtqS-2">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="390" y="350" as="sourcePoint" />
+            <mxPoint x="440" y="300" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="m5NKALQ9LFGTojzMWtqS-4" value="Hip Hop" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="230" y="240" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="m5NKALQ9LFGTojzMWtqS-5" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1" source="m5NKALQ9LFGTojzMWtqS-1" target="m5NKALQ9LFGTojzMWtqS-4">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="390" y="350" as="sourcePoint" />
+            <mxPoint x="440" y="300" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="m5NKALQ9LFGTojzMWtqS-6" value="Spotify" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="374" y="360" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="m5NKALQ9LFGTojzMWtqS-7" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1" source="m5NKALQ9LFGTojzMWtqS-1" target="m5NKALQ9LFGTojzMWtqS-6">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="390" y="350" as="sourcePoint" />
+            <mxPoint x="440" y="300" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="m5NKALQ9LFGTojzMWtqS-8" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1" source="m5NKALQ9LFGTojzMWtqS-2" target="m5NKALQ9LFGTojzMWtqS-9">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="500" y="390" as="sourcePoint" />
+            <mxPoint x="550" y="340" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="m5NKALQ9LFGTojzMWtqS-9" value="Apple Music" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="520" y="360" width="80" height="80" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
